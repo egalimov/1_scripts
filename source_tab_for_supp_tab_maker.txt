@@ -1,0 +1,32 @@
+species:	Macaca mulatta				
+strain: 				
+tissue:	CA1
+lib:	PE
+link: 	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE87182
+				
+cond1	y4r1	y4r2	y20r1	y20r2
+aged1	y4	y4	y20	y20
+cond2	y4r1	y4r2	y10r1	y10r2
+aged2	y4	y4	y10	y10
+cond3	y10r1	y10r2	y20r1	y20r2
+aged3	y10	y10	y20	y20
+cond4	y1r1	y1r2	y20r1	y20r2
+aged4	y1	y1	y20	y20
+cond5	y1r1	y1r2	y4r1	y4r2
+aged5	y1	y1	y4	y4
+
+1 years
+y1r1	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR418/007/SRR4187477/SRR4187477_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR418/007/SRR4187477/SRR4187477_2.fastq.gz
+y1r2	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR418/008/SRR4187478/SRR4187478_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR418/008/SRR4187478/SRR4187478_2.fastq.gz
+
+4 years				
+y4r1	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR418/009/SRR4187479/SRR4187479_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR418/009/SRR4187479/SRR4187479_2.fastq.gz		
+y4r2	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR418/000/SRR4187480/SRR4187480_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR418/000/SRR4187480/SRR4187480_2.fastq.gz		
+				
+10 years				
+y10r1	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR418/001/SRR4187481/SRR4187481_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR418/001/SRR4187481/SRR4187481_2.fastq.gz		
+y10r2	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR418/002/SRR4187482/SRR4187482_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR418/002/SRR4187482/SRR4187482_2.fastq.gz		
+				
+20 years				
+y20r1	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR418/003/SRR4187483/SRR4187483_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR418/003/SRR4187483/SRR4187483_2.fastq.gz		
+y20r2	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR418/004/SRR4187484/SRR4187484_1.fastq.gz	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR418/004/SRR4187484/SRR4187484_2.fastq.gz
